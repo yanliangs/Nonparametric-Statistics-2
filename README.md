@@ -1,4 +1,4 @@
-# NonparametricStatistics
+# Nonparametric Statistics
 
 Some homework answers for STAT W4413 Nonparametric Statistics
 
